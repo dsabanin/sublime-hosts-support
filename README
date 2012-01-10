@@ -1,0 +1,3 @@
+Download this through Downloads tab in Github and unpack it in ~/Library/Application Support/Sublime Text 2/Packages/User on Mac or in similar location depending on your OS.
+
+All work was done by @vigo here https://github.com/vigo/textmate-hosts.tmbundle. I just repackaged it to work out of the box with Sublime Text 2 editor and added comment syntax declaration.
